@@ -39,3 +39,8 @@ git merge v0.2
 
 20.
 ![Image text](./conflicto.png)
+
+![Image text](./eliminando%20v0.2.png)
+
+![Image text](./2.png)
+
