@@ -37,4 +37,5 @@ git checkout main
 17.
 git merge v0.2
 
-
+20.
+![Image text](./conflicto.png)
